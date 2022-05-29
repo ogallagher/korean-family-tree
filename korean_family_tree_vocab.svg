@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="518.89056mm"
-   height="318.41302mm"
-   viewBox="0 0 518.89055 318.41303"
+   width="720.78931mm"
+   height="462.31812mm"
+   viewBox="0 0 720.78929 462.31812"
    version="1.1"
    id="svg5"
    inkscape:version="1.2 (dc2aeda, 2022-05-15)"
@@ -19,7 +19,7 @@
   <sodipodi:namedview
      id="namedview7"
      pagecolor="#505050"
-     bordercolor="#eeeeee"
+     bordercolor="#5a5a5a"
      borderopacity="1"
      inkscape:showpageshadow="0"
      inkscape:pageopacity="0"
@@ -27,15 +27,15 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.61091087"
-     inkscape:cx="1795.6793"
-     inkscape:cy="1269.4159"
+     inkscape:zoom="0.30545544"
+     inkscape:cx="1181.8418"
+     inkscape:cy="882.28908"
      inkscape:window-width="1665"
      inkscape:window-height="1387"
      inkscape:window-x="895"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer7" />
+     inkscape:current-layer="layer10" />
   <defs
      id="defs2">
     <rect
@@ -47,9 +47,24 @@
   </defs>
   <g
      inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="background"
+     sodipodi:insensitive="true"
+     transform="translate(14.337289,6.3749084)">
+    <rect
+       style="fill:#787878;fill-opacity:1;stroke:#000000;stroke-width:0.499999"
+       id="rect3855"
+       width="720.28931"
+       height="461.81812"
+       x="-14.08729"
+       y="-6.1249089"
+       ry="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="graph_edges"
-     transform="translate(174.21719,13.082937)">
+     transform="translate(188.55448,19.457845)">
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
        d="M 92.473191,98.962966 H 111.29159"
@@ -307,7 +322,7 @@
      inkscape:label="graph_nodes"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(188.81919,22.193589)">
+     transform="translate(203.15648,28.568497)">
     <circle
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        id="path84"
@@ -689,7 +704,7 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="groups"
-     transform="translate(174.21719,13.082937)">
+     transform="translate(188.55448,19.457845)">
     <rect
        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        id="rect3528"
@@ -777,7 +792,7 @@
      id="layer2"
      inkscape:label="icons_male"
      style="display:none"
-     transform="rotate(-38.036857,207.75952,-71.209358)"
+     transform="rotate(-38.036857,224.17554,-88.819427)"
      sodipodi:insensitive="true">
     <g
        id="g2344"
@@ -827,7 +842,7 @@
      id="layer3"
      inkscape:label="icons_female"
      style="display:inline;fill:none;fill-opacity:1"
-     transform="translate(174.21719,13.082937)">
+     transform="translate(188.55448,19.457845)">
     <g
        id="g2471"
        inkscape:label="icon_female"
@@ -876,7 +891,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="icons_all"
-     transform="translate(174.21719,13.082937)">
+     transform="translate(188.55448,19.457845)">
     <g
        id="g2344-4"
        transform="rotate(-38.036857,59.337344,216.67814)"
@@ -1851,7 +1866,7 @@
      id="layer4"
      inkscape:label="labels_male"
      style="display:none"
-     transform="translate(174.21719,13.082937)">
+     transform="translate(188.55448,19.457845)">
     <g
        id="g3211"
        transform="translate(0,19.579166)">
@@ -2127,7 +2142,7 @@
      id="layer5"
      inkscape:label="labels_female"
      style="display:inline"
-     transform="translate(174.21719,13.082937)">
+     transform="translate(188.55448,19.457845)">
     <g
        id="g3211-2"
        transform="translate(0.08042534,18.949169)">
@@ -2754,7 +2769,7 @@
      id="layer7"
      inkscape:label="labels_all"
      style="display:inline"
-     transform="translate(174.21719,13.082937)">
+     transform="translate(188.55448,19.457845)">
     <g
        id="g3217-28-0"
        transform="translate(4.4650492,86.624821)">
