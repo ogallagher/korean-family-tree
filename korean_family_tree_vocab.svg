@@ -3,12 +3,15 @@
 
 <svg
    width="720.78931mm"
-   height="462.31812mm"
-   viewBox="0 0 720.78929 462.31812"
+   height="538.26697mm"
+   viewBox="0 0 720.78929 538.26697"
    version="1.1"
    id="svg5"
    inkscape:version="1.2 (dc2aeda, 2022-05-15)"
    sodipodi:docname="korean_family_tree_vocab.svg"
+   inkscape:export-filename="images/export/korean_family_tree_vocab_female.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -27,17 +30,23 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.30545544"
-     inkscape:cx="1181.8418"
-     inkscape:cy="882.28908"
+     inkscape:zoom="0.36440298"
+     inkscape:cx="1398.1774"
+     inkscape:cy="1077.1043"
      inkscape:window-width="1665"
      inkscape:window-height="1387"
      inkscape:window-x="895"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer10" />
+     inkscape:current-layer="layer5" />
   <defs
      id="defs2">
+    <rect
+       x="475.71732"
+       y="-274.31876"
+       width="35.881355"
+       height="21.991798"
+       id="rect9461" />
     <rect
        x="182.07547"
        y="521.22644"
@@ -49,22 +58,22 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="background"
-     sodipodi:insensitive="true"
-     transform="translate(14.337289,6.3749084)">
+     transform="translate(14.33729,82.323773)"
+     sodipodi:insensitive="true">
     <rect
-       style="fill:#787878;fill-opacity:1;stroke:#000000;stroke-width:0.499999"
+       style="fill:#787878;fill-opacity:1;stroke:#000000;stroke-width:0.539514"
        id="rect3855"
-       width="720.28931"
-       height="461.81812"
-       x="-14.08729"
-       y="-6.1249089"
+       width="720.24982"
+       height="537.72748"
+       x="-14.067533"
+       y="-82.054016"
        ry="0" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="graph_edges"
-     transform="translate(188.55448,19.457845)">
+     transform="translate(188.55448,95.40671)">
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
        d="M 92.473191,98.962966 H 111.29159"
@@ -77,13 +86,25 @@
        inkscape:label="partner" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
-       d="M -24.837175,15.304824 H 15.11216"
+       d="M -23.249674,15.304824 H 16.699661"
        id="path8104-8-8"
        inkscape:label="partner"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
-       d="m 184.87114,13.907903 h 39.94934"
+       d="M -24.463156,-58.436528 H 15.486179"
+       id="path8104-8-8-7"
+       inkscape:label="partner"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       d="m 185.05946,-58.436528 h 39.94933"
+       id="path8104-8-8-91"
+       inkscape:label="partner"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       d="m 186.45865,13.907903 h 39.94934"
        id="path8104-8-8-9"
        inkscape:label="partner"
        sodipodi:nodetypes="cc" />
@@ -138,6 +159,12 @@
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
        d="m 458.54,158.56763 h 34.6934"
        id="path8104-9-32-2"
+       inkscape:label="partner"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       d="m 461.72337,219.34614 h 34.6934"
+       id="path8104-9-32-2-4"
        inkscape:label="partner"
        sodipodi:nodetypes="cc" />
     <path
@@ -317,12 +344,24 @@
          id="path10374-6-5-5"
          sodipodi:nodetypes="cc" />
     </g>
+    <path
+       style="fill:#787878;stroke:#000000;stroke-width:0.499999"
+       d="m -2.55448,-58.65726 v 44.797327 h -22.29829 l 0.29829,27.476594"
+       id="path7365"
+       sodipodi:nodetypes="cccc"
+       inkscape:label="children-7365" />
+    <path
+       style="fill:#787878;stroke:#000000;stroke-width:0.499999"
+       d="m 205.76419,-58.65726 v 44.797327 h 22.29829 l -0.29829,27.476594"
+       id="path7365-4"
+       sodipodi:nodetypes="cccc"
+       inkscape:label="children-7366" />
   </g>
   <g
      inkscape:label="graph_nodes"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(203.15648,28.568497)">
+     transform="translate(203.15648,104.51736)">
     <circle
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        id="path84"
@@ -359,6 +398,14 @@
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        id="path84-30-3-03"
        cx="-359.33926"
+       cy="209.46538"
+       transform="scale(-1,1)"
+       r="10"
+       inkscape:label="node" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+       id="path84-30-3-03-7"
+       cx="-445.41513"
        cy="209.46538"
        transform="scale(-1,1)"
        r="10"
@@ -494,7 +541,7 @@
     <circle
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        id="path84-3-4"
-       cx="40.855801"
+       cx="39.268299"
        cy="6.1941724"
        transform="scale(-1,1)"
        r="10"
@@ -502,15 +549,31 @@
     <circle
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        id="path84-9-6"
-       cx="-2.2039983"
+       cx="-3.7914982"
        cy="6.1941724"
        transform="scale(-1,1)"
        r="10"
        inkscape:label="node" />
     <circle
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+       id="path84-3-4-9"
+       cx="40.855801"
+       cy="-67.54718"
+       transform="scale(-1,1)"
+       r="10"
+       inkscape:label="node" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+       id="path84-9-6-0"
+       cx="-2.2039981"
+       cy="-67.54718"
+       transform="scale(-1,1)"
+       r="10"
+       inkscape:label="node" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        id="path84-3-4-0"
-       cx="-167.90536"
+       cx="-169.49284"
        cy="4.7972512"
        transform="scale(-1,1)"
        r="10"
@@ -518,7 +581,7 @@
     <circle
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        id="path84-9-6-6"
-       cx="-210.96518"
+       cx="-212.55266"
        cy="4.7972512"
        transform="scale(-1,1)"
        r="10"
@@ -699,12 +762,28 @@
        transform="scale(-1,1)"
        r="10"
        inkscape:label="node" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+       id="path84-3-4-9-6"
+       cx="-167.90536"
+       cy="-67.54718"
+       transform="scale(-1,1)"
+       r="10"
+       inkscape:label="node" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+       id="path84-9-6-0-1"
+       cx="-210.96518"
+       cy="-67.54718"
+       transform="scale(-1,1)"
+       r="10"
+       inkscape:label="node" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="groups"
-     transform="translate(188.55448,19.457845)">
+     transform="translate(188.55448,95.40671)">
     <rect
        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        id="rect3528"
@@ -739,6 +818,15 @@
        height="38.190639"
        x="70.439186"
        y="86.240402"
+       ry="4.7425313"
+       inkscape:label="group_rect" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3528-0-7-6-6"
+       width="75.536331"
+       height="45.120182"
+       x="389.15778"
+       y="77.083588"
        ry="4.7425313"
        inkscape:label="group_rect" />
     <rect
@@ -782,8 +870,17 @@
        id="rect3528-0-7-6-7"
        width="294.98373"
        height="46.153023"
-       x="-49.762146"
+       x="-48.174644"
        y="2.3789189"
+       ry="4.7425313"
+       inkscape:label="group_rect" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3528-0-7-6-7-3"
+       width="295.59622"
+       height="47.684273"
+       x="-48.230919"
+       y="-71.321419"
        ry="4.7425313"
        inkscape:label="group_rect" />
   </g>
@@ -792,8 +889,7 @@
      id="layer2"
      inkscape:label="icons_male"
      style="display:none"
-     transform="rotate(-38.036857,224.17554,-88.819427)"
-     sodipodi:insensitive="true">
+     transform="rotate(-38.036857,334.34617,-50.844995)">
     <g
        id="g2344"
        transform="translate(-10.372729,14.978637)"
@@ -818,7 +914,7 @@
     <g
        id="g2471-3-23"
        inkscape:label="icon_female"
-       transform="rotate(38.036857,-4.776829,385.54408)"
+       transform="rotate(38.036857,-31.235111,462.3043)"
        style="display:inline;fill:none;fill-opacity:1">
       <circle
          style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
@@ -842,7 +938,8 @@
      id="layer3"
      inkscape:label="icons_female"
      style="display:inline;fill:none;fill-opacity:1"
-     transform="translate(188.55448,19.457845)">
+     transform="translate(188.55448,95.40671)"
+     sodipodi:insensitive="true">
     <g
        id="g2471"
        inkscape:label="icon_female"
@@ -891,7 +988,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="icons_all"
-     transform="translate(188.55448,19.457845)">
+     transform="translate(188.55448,95.40671)">
     <g
        id="g2344-4"
        transform="rotate(-38.036857,59.337344,216.67814)"
@@ -1242,7 +1339,7 @@
     </g>
     <g
        id="g2344-4-3-4"
-       transform="rotate(-38.036857,-195.39921,277.77576)"
+       transform="rotate(-38.036857,-194.60547,275.47296)"
        inkscape:label="icon_male"
        style="display:inline">
       <circle
@@ -1265,7 +1362,7 @@
     <g
        id="g2471-3-5-9"
        inkscape:label="icon_female"
-       transform="translate(-100.38916,-158.90293)"
+       transform="translate(-98.801659,-158.90293)"
        style="display:inline;fill:none;fill-opacity:1">
       <circle
          style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
@@ -1282,6 +1379,92 @@
          style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
          d="m 115.27574,178.21928 h 3.83885"
          id="path2447-5-4-0" />
+    </g>
+    <g
+       id="g2344-4-3-4-6"
+       transform="rotate(-38.036857,-302.36765,240.90508)"
+       inkscape:label="icon_male"
+       style="display:inline">
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#0000ec;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         id="path2108-0-7-4-7"
+         cx="99.655563"
+         cy="172.91521"
+         r="3" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#0000ec;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         d="m 99.655563,175.84807 v 5.86576"
+         id="path2218-08-1-9-1"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#0000ec;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         d="m 97.155565,179.02926 2.5,2.5 2.499995,-2.5"
+         id="path2316-7-57-5-4"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="g2471-3-5-9-8"
+       inkscape:label="icon_female"
+       transform="translate(-100.38917,-232.64427)"
+       style="display:inline;fill:none;fill-opacity:1">
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         id="path2108-5-8-7-8-1"
+         cx="117.19517"
+         cy="171.55844"
+         r="3" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         d="m 117.19517,174.49129 v 5.86576"
+         id="path2218-0-4-2-4-8"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         d="m 115.27574,178.21928 h 3.83885"
+         id="path2447-5-4-0-5" />
+    </g>
+    <g
+       id="g2344-4-3-4-31"
+       transform="rotate(-38.036857,-197.98708,-61.921654)"
+       inkscape:label="icon_male"
+       style="display:inline">
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#0000ec;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         id="path2108-0-7-4-9"
+         cx="99.655563"
+         cy="172.91521"
+         r="3" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#0000ec;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         d="m 99.655563,175.84807 v 5.86576"
+         id="path2218-08-1-9-3"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#0000ec;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         d="m 97.155565,179.02926 2.5,2.5 2.499995,-2.5"
+         id="path2316-7-57-5-9"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="g2471-3-5-9-1"
+       inkscape:label="icon_female"
+       transform="translate(108.37198,-232.64427)"
+       style="display:inline;fill:none;fill-opacity:1">
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         id="path2108-5-8-7-8-0"
+         cx="117.19517"
+         cy="171.55844"
+         r="3" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         d="m 117.19517,174.49129 v 5.86576"
+         id="path2218-0-4-2-4-4"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         d="m 115.27574,178.21928 h 3.83885"
+         id="path2447-5-4-0-9" />
     </g>
     <g
        id="g2471-3-2"
@@ -1498,7 +1681,7 @@
     </g>
     <g
        id="g2344-4-3-4-3"
-       transform="rotate(-38.036857,-92.431455,-25.942645)"
+       transform="rotate(-38.036857,-91.637706,-28.245457)"
        inkscape:label="icon_male"
        style="display:inline">
       <circle
@@ -1521,7 +1704,7 @@
     <g
        id="g2471-3-5-9-2"
        inkscape:label="icon_female"
-       transform="translate(108.62132,-159.96283)"
+       transform="translate(110.20883,-159.96283)"
        style="display:inline;fill:none;fill-opacity:1">
       <circle
          style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
@@ -1840,7 +2023,7 @@
     </g>
     <g
        id="g2344-1-4-9"
-       transform="rotate(-38.036857,254.77694,-356.23946)"
+       transform="rotate(-38.036857,254.77694,-356.23947)"
        inkscape:label="icon_male"
        style="display:inline;fill:none;fill-opacity:1">
       <circle
@@ -1860,13 +2043,35 @@
          id="path2316-0-1-9"
          sodipodi:nodetypes="ccc" />
     </g>
+    <g
+       id="g2344-1-4-9-6"
+       transform="rotate(-38.036857,342.59934,-325.96819)"
+       inkscape:label="icon_male"
+       style="display:inline;fill:none;fill-opacity:1">
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#0000ec;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         id="path2108-6-8-2-8"
+         cx="99.655563"
+         cy="172.91521"
+         r="3" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#0000ec;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         d="m 99.655563,175.84807 v 5.86576"
+         id="path2218-4-6-8-3"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#0000ec;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         d="m 97.155565,179.02926 2.5,2.5 2.499995,-2.5"
+         id="path2316-0-1-9-8"
+         sodipodi:nodetypes="ccc" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="labels_male"
      style="display:none"
-     transform="translate(188.55448,19.457845)">
+     transform="translate(188.55448,95.40671)">
     <g
        id="g3211"
        transform="translate(0,19.579166)">
@@ -2109,7 +2314,7 @@
     </g>
     <g
        id="g3217-2-5-4-3-7-0-0-0"
-       transform="translate(138.6448,45.582665)"
+       transform="translate(191.01015,45.582665)"
        style="display:inline">
       <text
          xml:space="preserve"
@@ -2136,13 +2341,442 @@
            y="174.28653"
            id="tspan5592-0">my wife</tspan></text>
     </g>
+    <g
+       id="g3217-2-5-4-3-7-0-0-0-30"
+       transform="translate(295.53505,-100.60681)"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:0;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         x="131.18262"
+         y="168.20242"
+         id="text2597-2-8-3-8-5-7-3-5-3-4"
+         inkscape:label="korean"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none"
+           x="131.18262"
+           y="168.20242"
+           id="tspan2715-9-3-5-0-9-8-7-7-9-8">처부모</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+         x="131.34386"
+         y="174.28653"
+         id="text2725-8-9-9-6-7-0-9-4-4-7"
+         inkscape:label="english"><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="174.28653"
+           id="tspan5592-0-5">wife's parents</tspan></text>
+    </g>
+    <g
+       id="g3217-2-5-4-3-7-0-0-0-3"
+       transform="translate(242.48027,8.6783679)"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:0;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         x="131.18262"
+         y="168.20242"
+         id="text2597-2-8-3-8-5-7-3-5-3-9"
+         inkscape:label="korean"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none"
+           x="131.18262"
+           y="168.20242"
+           id="tspan2715-9-3-5-0-9-8-7-7-9-0">형</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+         x="131.34386"
+         y="174.28653"
+         id="text2725-8-9-9-6-7-0-9-4-4-5"
+         inkscape:label="english"><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="174.28653"
+           id="tspan5592-0-2">wife's</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="179.93097"
+           id="tspan1817">older</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="185.57541"
+           id="tspan1819">brother</tspan></text>
+    </g>
+    <g
+       id="g3217-2-5-4-3-7-0-0-0-3-3"
+       transform="translate(276.79904,-60.963061)"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:0;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         x="131.18262"
+         y="168.20242"
+         id="text2597-2-8-3-8-5-7-3-5-3-9-2"
+         inkscape:label="korean"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none"
+           x="131.18262"
+           y="168.20242"
+           id="tspan2715-9-3-5-0-9-8-7-7-9-0-6">장인</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+         x="131.34386"
+         y="174.28653"
+         id="text2725-8-9-9-6-7-0-9-4-4-5-89"
+         inkscape:label="english"><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="174.28653"
+           id="tspan5592-0-2-1">wife's</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="179.93097"
+           id="tspan1819-8">father</tspan></text>
+    </g>
+    <g
+       id="g3217-2-5-4-3-7-0-0-0-3-3-7"
+       transform="translate(314.85016,-60.963061)"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:0;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         x="131.18262"
+         y="168.20242"
+         id="text2597-2-8-3-8-5-7-3-5-3-9-2-5"
+         inkscape:label="korean"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none"
+           x="131.18262"
+           y="168.20242"
+           id="tspan2715-9-3-5-0-9-8-7-7-9-0-6-7">장모</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+         x="131.34386"
+         y="174.28653"
+         id="text2725-8-9-9-6-7-0-9-4-4-5-89-5"
+         inkscape:label="english"><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="174.28653"
+           id="tspan5592-0-2-1-0">wife's</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="179.93097"
+           id="tspan1819-8-6">mother</tspan></text>
+    </g>
+    <g
+       id="g3217-2-5-4-3-7-0-0-0-3-5"
+       transform="translate(282.16425,8.6783679)"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:0;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         x="131.18262"
+         y="168.20242"
+         id="text2597-2-8-3-8-5-7-3-5-3-9-3"
+         inkscape:label="korean"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none"
+           x="131.18262"
+           y="168.20242"
+           id="tspan2715-9-3-5-0-9-8-7-7-9-0-5">아주머니</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+         x="131.34386"
+         y="174.28653"
+         id="text2725-8-9-9-6-7-0-9-4-4-5-4"
+         inkscape:label="english"><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="174.28653"
+           id="tspan5592-0-2-3">wife's</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="179.93097"
+           id="tspan1817-6">older</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="185.57541"
+           id="tspan1819-5">brother's</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="191.21985"
+           id="tspan1873">wife</tspan></text>
+    </g>
+    <g
+       id="g3217-2-5-4-3-7-0-0-0-3-0"
+       transform="translate(328.40731,8.4526455)"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:0;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         x="131.18262"
+         y="168.20242"
+         id="text2597-2-8-3-8-5-7-3-5-3-9-9"
+         inkscape:label="korean"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none"
+           x="131.18262"
+           y="168.20242"
+           id="tspan2715-9-3-5-0-9-8-7-7-9-0-56">형</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+         x="131.34386"
+         y="174.28653"
+         id="text2725-8-9-9-6-7-0-9-4-4-5-2"
+         inkscape:label="english"><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="174.28653"
+           id="tspan5592-0-2-8">wife's</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="179.93097"
+           id="tspan1817-5">older</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="185.57541"
+           id="tspan1819-9">sister's</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="191.21985"
+           id="tspan2047">husband</tspan></text>
+    </g>
+    <g
+       id="g3217-2-5-4-3-7-0-0-0-3-5-4"
+       transform="translate(366.42398,8.6783679)"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:0;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         x="131.18262"
+         y="168.20242"
+         id="text2597-2-8-3-8-5-7-3-5-3-9-3-3"
+         inkscape:label="korean"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none"
+           x="131.18262"
+           y="168.20242"
+           id="tspan2715-9-3-5-0-9-8-7-7-9-0-5-9">처형</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+         x="131.34386"
+         y="174.28653"
+         id="text2725-8-9-9-6-7-0-9-4-4-5-4-0"
+         inkscape:label="english"><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="174.28653"
+           id="tspan5592-0-2-3-5">wife's</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="179.93097"
+           id="tspan1817-6-6">older</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="185.57541"
+           id="tspan1873-6">sister</tspan></text>
+    </g>
+    <g
+       id="g3217-2-5-4-3-7-0-0-0-3-6"
+       transform="translate(242.33145,68.773733)"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:0;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         x="131.18262"
+         y="168.20242"
+         id="text2597-2-8-3-8-5-7-3-5-3-9-6"
+         inkscape:label="korean"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none"
+           x="131.18262"
+           y="168.20242"
+           id="tspan2715-9-3-5-0-9-8-7-7-9-0-7">처남</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+         x="131.34386"
+         y="174.28653"
+         id="text2725-8-9-9-6-7-0-9-4-4-5-8"
+         inkscape:label="english"><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="174.28653"
+           id="tspan5592-0-2-4">wife's</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="179.93097"
+           id="tspan1817-1">younger</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="185.57541"
+           id="tspan1819-7">brother</tspan></text>
+    </g>
+    <g
+       id="g3217-2-5-4-3-7-0-0-0-3-6-1"
+       transform="translate(366.46829,68.773733)"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:0;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         x="131.18262"
+         y="168.20242"
+         id="text2597-2-8-3-8-5-7-3-5-3-9-6-8"
+         inkscape:label="korean"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none"
+           x="131.18262"
+           y="168.20242"
+           id="tspan2715-9-3-5-0-9-8-7-7-9-0-7-71">처제</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+         x="131.34386"
+         y="174.28653"
+         id="text2725-8-9-9-6-7-0-9-4-4-5-8-5"
+         inkscape:label="english"><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="174.28653"
+           id="tspan5592-0-2-4-5">wife's</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="179.93097"
+           id="tspan1817-1-8">younger</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="185.57541"
+           id="tspan1819-7-5">sister</tspan></text>
+    </g>
+    <g
+       id="g3217-2-5-4-3-7-0-0-0-3-6-1-9"
+       transform="translate(328.57819,68.773733)"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:0;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         x="131.18262"
+         y="168.20242"
+         id="text2597-2-8-3-8-5-7-3-5-3-9-6-8-6"
+         inkscape:label="korean"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none"
+           x="131.18262"
+           y="168.20242"
+           id="tspan2715-9-3-5-0-9-8-7-7-9-0-7-71-7">동서</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+         x="131.34386"
+         y="174.28653"
+         id="text2725-8-9-9-6-7-0-9-4-4-5-8-5-8"
+         inkscape:label="english"><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="174.28653"
+           id="tspan5592-0-2-4-5-9">wife's</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="179.93097"
+           id="tspan1817-1-8-7">younger</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="185.57541"
+           id="tspan1819-7-5-5">sister's</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="191.21985"
+           id="tspan4030">husband</tspan></text>
+    </g>
+    <g
+       id="g3217-2-5-4-3-7-0-0-0-3-6-2"
+       transform="translate(282.20835,68.773733)"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:0;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         x="131.18262"
+         y="168.20242"
+         id="text2597-2-8-3-8-5-7-3-5-3-9-6-0"
+         inkscape:label="korean"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none"
+           x="131.18262"
+           y="168.20242"
+           id="tspan2715-9-3-5-0-9-8-7-7-9-0-7-7">처남댁</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+         x="131.34386"
+         y="174.28653"
+         id="text2725-8-9-9-6-7-0-9-4-4-5-8-4"
+         inkscape:label="english"><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="174.28653"
+           id="tspan5592-0-2-4-8">wife's</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="179.93097"
+           id="tspan1817-1-5">younger</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="185.57541"
+           id="tspan1819-7-8">brother's</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="191.21985"
+           id="tspan1953">wife</tspan></text>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="labels_female"
      style="display:inline"
-     transform="translate(188.55448,19.457845)">
+     transform="translate(188.55448,95.40671)">
     <g
        id="g3211-2"
        transform="translate(0.08042534,18.949169)">
@@ -2413,6 +3047,35 @@
            id="tspan2715-7-8">남편 </tspan></text>
     </g>
     <g
+       id="g3211-2-0-0"
+       transform="translate(325.76287,-126.53173)"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+         x="101.16307"
+         y="200.18474"
+         id="text2725-3-9-2"
+         inkscape:label="english"><tspan
+           sodipodi:role="line"
+           id="tspan2723-06-7-3"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="101.16307"
+           y="200.18474">husband's parents</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:0;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         x="100.75105"
+         y="194.4438"
+         id="text2597-4-4-2"
+         inkscape:label="korean"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none"
+           x="101.92721"
+           y="194.4438"
+           id="tspan2715-7-8-7">시부모 </tspan></text>
+    </g>
+    <g
        id="g3211-2-0-5"
        transform="translate(272.63901,-17.067378)"
        style="display:inline">
@@ -2493,7 +3156,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none"
            x="101.92721"
            y="194.4438"
-           id="tspan2715-7-8-3-0">형님? </tspan></text>
+           id="tspan2715-7-8-3-0">형 </tspan></text>
     </g>
     <g
        id="g3211-2-0-5-69"
@@ -2649,7 +3312,46 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none"
            x="101.92721"
            y="194.4438"
-           id="tspan2715-7-8-3-1-5">서방님? </tspan></text>
+           id="tspan2715-7-8-3-1-5">서방 </tspan></text>
+    </g>
+    <g
+       id="g3211-2-0-5-6-8-7"
+       transform="translate(358.71488,42.970678)"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+         x="101.16307"
+         y="200.18474"
+         id="text2725-3-9-0-5-0-3"
+         inkscape:label="english"><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="101.16307"
+           y="200.18474"
+           id="tspan3861-0-0">husband's</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="101.16307"
+           y="205.82918"
+           id="tspan3640-8-95-9">sister's</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="101.16307"
+           y="211.47362"
+           id="tspan4339-0">husband</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:0;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         x="100.75105"
+         y="194.4438"
+         id="text2597-4-4-5-5-3-3"
+         inkscape:label="korean"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none"
+           x="101.92721"
+           y="194.4438"
+           id="tspan2715-7-8-3-1-5-1">서방 </tspan></text>
     </g>
     <g
        id="g3211-2-0-5-7"
@@ -2769,7 +3471,7 @@
      id="layer7"
      inkscape:label="labels_all"
      style="display:inline"
-     transform="translate(188.55448,19.457845)">
+     transform="translate(188.55448,95.40671)">
     <g
        id="g3217-28-0"
        transform="translate(4.4650492,86.624821)">
@@ -3030,7 +3732,7 @@
     </g>
     <g
        id="g3217-28-0-9-7"
-       transform="translate(-114.38566,-134.78185)"
+       transform="translate(-112.79815,-134.78185)"
        style="display:inline">
       <text
          xml:space="preserve"
@@ -3064,7 +3766,7 @@
     </g>
     <g
        id="g3217-2-5-4-3-10"
-       transform="translate(-157.68387,-134.78185)"
+       transform="translate(-156.09636,-134.78185)"
        style="display:inline">
       <text
          xml:space="preserve"
@@ -3097,8 +3799,76 @@
            id="tspan12243">father</tspan></text>
     </g>
     <g
+       id="g3217-28-0-9-7-0"
+       transform="translate(-114.56266,-208.07213)"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:0;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         x="131.16609"
+         y="168.20242"
+         id="text2597-2-4-5-6-3-00"
+         inkscape:label="korean"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none"
+           x="131.16609"
+           y="168.20242"
+           id="tspan2715-9-0-0-4-2-3">증조모</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+         x="131.2088"
+         y="174.28653"
+         id="text2725-8-1-5-9-5-2"
+         inkscape:label="english"><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.2088"
+           y="174.28653"
+           id="tspan12247-2">father's</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.2088"
+           y="179.93097"
+           id="tspan7731">grandmother</tspan></text>
+    </g>
+    <g
+       id="g3217-2-5-4-3-10-4"
+       transform="translate(-157.75752,-208.07213)"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:0;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         x="131.18262"
+         y="168.20242"
+         id="text2597-2-8-3-8-5-2-8"
+         inkscape:label="korean"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none"
+           x="131.18262"
+           y="168.20242"
+           id="tspan2715-9-3-5-0-9-9-3">증조부</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+         x="131.34386"
+         y="174.28653"
+         id="text2725-8-9-9-6-7-03-5"
+         inkscape:label="english"><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="174.28653"
+           id="tspan12243-0">father's</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="179.93097"
+           id="tspan7727">grandfather</tspan></text>
+    </g>
+    <g
        id="g3217-28-0-9-7-5"
-       transform="translate(94.310685,-135.54078)"
+       transform="translate(95.898186,-135.54078)"
        style="display:inline">
       <text
          xml:space="preserve"
@@ -3132,7 +3902,7 @@
     </g>
     <g
        id="g3217-2-5-4-3-10-5"
-       transform="translate(51.012483,-135.54078)"
+       transform="translate(52.599984,-135.54078)"
        style="display:inline">
       <text
          xml:space="preserve"
@@ -3163,6 +3933,74 @@
            x="131.34386"
            y="179.93097"
            id="tspan12249">father</tspan></text>
+    </g>
+    <g
+       id="g3217-28-0-9-7-5-6"
+       transform="translate(94.198505,-207.85896)"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:0;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         x="131.16609"
+         y="168.20242"
+         id="text2597-2-4-5-6-3-0-7"
+         inkscape:label="korean"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none"
+           x="132.34225"
+           y="168.20242"
+           id="tspan2715-9-0-0-4-2-5-0">외증조모 </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+         x="131.2088"
+         y="174.28653"
+         id="text2725-8-1-5-9-5-6-7"
+         inkscape:label="english"><tspan
+           sodipodi:role="line"
+           id="tspan2723-0-0-7-2-1-7-3"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.2088"
+           y="174.28653">mother's</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.2088"
+           y="181.34209"
+           id="tspan12251-3">grandmother</tspan></text>
+    </g>
+    <g
+       id="g3217-2-5-4-3-10-5-2"
+       transform="translate(51.169012,-207.85896)"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:0;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         x="131.18262"
+         y="168.20242"
+         id="text2597-2-8-3-8-5-2-7-1"
+         inkscape:label="korean"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none"
+           x="131.18262"
+           y="168.20242"
+           id="tspan2715-9-3-5-0-9-9-5-4">외증조부</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+         x="131.34386"
+         y="174.28653"
+         id="text2725-8-9-9-6-7-03-3-0"
+         inkscape:label="english"><tspan
+           sodipodi:role="line"
+           id="tspan2723-0-9-8-0-2-5-5-0"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="174.28653">mother's</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="179.93097"
+           id="tspan12249-8">grandfather</tspan></text>
     </g>
     <g
        id="g3217-2-5-4-3-1"
@@ -3582,7 +4420,7 @@
     </g>
     <g
        id="g3217-2-5-4-1-4-7"
-       transform="translate(-29.252767,-174.38552)"
+       transform="translate(-27.665266,-174.38552)"
        style="display:inline">
       <text
          xml:space="preserve"
@@ -3608,6 +4446,35 @@
            style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
            x="131.34386"
            y="174.28653">grandparents</tspan></text>
+    </g>
+    <g
+       id="g3217-2-5-4-1-4-7-8"
+       transform="translate(-27.665266,-247.96977)"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:0;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         x="131.18262"
+         y="168.20242"
+         id="text2597-2-8-3-8-7-0-5-3"
+         inkscape:label="korean"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none"
+           x="131.18262"
+           y="168.20242"
+           id="tspan2715-9-3-5-0-4-0-5-2">증조부모</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+         x="131.34386"
+         y="174.28653"
+         id="text2725-8-9-9-6-9-9-0-9"
+         inkscape:label="english"><tspan
+           sodipodi:role="line"
+           id="tspan2723-0-9-8-0-6-3-52-7"
+           style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+           x="131.34386"
+           y="174.28653">great grandparents</tspan></text>
     </g>
     <g
        id="g3217-2-5-4-1-4-0"
